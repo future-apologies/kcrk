@@ -1,4 +1,4 @@
-import './App.css';
+import './index.css';
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Shop from "./components/Shop";
@@ -17,9 +17,9 @@ const router = createBrowserRouter([
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <Navbar />
-      <div className="content">
+      <div>
         <RouterProvider router={router} />
       </div>
     </div>
