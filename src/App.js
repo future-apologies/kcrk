@@ -1,27 +1,38 @@
-import './index.css';
+import "./index.css";
 import Navbar from "./components/Navbar";
 import Home from "./components/Home";
 import Shop from "./components/Shop";
-import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import { createBrowserRouter, RouterProvider, Outlet } from "react-router-dom";
+
+const HeaderLayout = () => (
+  <>
+    <header>
+      <Navbar />
+    </header>
+    <Outlet />
+  </>
+);
 
 const router = createBrowserRouter([
   {
-    path:"/",
-    element: <Home />
+    element: <HeaderLayout />,
+    children: [
+      {
+        path: "/",
+        element: <Home />,
+      },
+      {
+        path: "/shop",
+        element: <Shop />,
+      },
+    ],
   },
-  {
-    path:"shop",
-    element: <Shop />
-  }
 ]);
 
 function App() {
   return (
-    <div>
-      <Navbar />
-      <div>
-        <RouterProvider router={router} />
-      </div>
+    <div className="App">
+      <RouterProvider router={router} />
     </div>
   );
 }
