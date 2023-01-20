@@ -4,8 +4,9 @@ const Navbar = () => {
   return (
     <>
       <nav className="navbar">
-        <Link to="/">KCRK home</Link>
         <Link to="/shop">KCRK shop</Link>
+        <Link to="/">KCRK</Link>
+        <Link to="/cart">CART</Link>
       </nav>
     </>
   );
