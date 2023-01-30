@@ -1,32 +1,33 @@
-import {useState, useEffect} from 'react';
+import { useParams } from "react-router-dom";
+import useFetch from "../useFetch";
 
-const SingleProduct = (id) => {
-    const [currProduct, setCurrProduct] = useState(null);
-    const [currStock, setCurrStock] = useState(0);
+const SingleProduct = () => {
+  const { id } = useParams();
+  const {
+    data: product,
+    error,
+    isPending,
+  } = useFetch("http://localhost:8000/products/" + id);
 
-    // useEffect(() =>{
-    //     setCurrProduct(id)
-    //     setCurrStock(id)
-    // })
-
-    return (
+  return (
     <div className="container">
-        <div className="containerLeft">
-            <img src={currProduct.imageUrl} alt={`KCRK item: ${currProduct.name}`} />
-        </div>
-        <div className="containerRight">
-            {currStock < 1 ? (
-                <h2>currently out of stock</h2>
-            ) : (
-                <h2>{currProduct.name}</h2>
-                <span>{currProduct.price}</span>
-                <p>{currProduct.description}</p>
-                <
-                <button type="submit">
-                    add to cart
-                </button>
-            )}
-        </div>
+      {error && <div>{error}</div>}
+      {isPending && <div>loading...</div>}
+      {product && (
+        <>
+          <div className="containerLeft">
+            <img src={product.imgUrl} alt={`KCRK product: ${product.name}`} />
+          </div>
+          <div className="containerRight">
+            <h2>{product.name}</h2>
+            <span>{product.price}</span>
+            <p>{product.description}</p>
+            <button type="submit">add to cart</button>
+          </div>
+        </>
+      )}
     </div>
-    )
+  );
 };
+
+export default SingleProduct;
