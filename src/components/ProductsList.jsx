@@ -25,9 +25,8 @@ const ProductsList = ({productsList, title}) => {
             </Link>
            </div>
        ))}
-
     </div>
-  )
-}
+  );
+};
 
 export default ProductsList;
