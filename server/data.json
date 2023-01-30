@@ -1,4 +1,5 @@
-[
+{
+   "products": [
    {
       "name":"Varileaf Phacelia",
       "price":"$37.09",
@@ -499,4 +500,5 @@
       "color":"Khaki",
       "stock":5
    }
-]
+   ]
+}
