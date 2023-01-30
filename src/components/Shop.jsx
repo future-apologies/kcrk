@@ -2,14 +2,13 @@ import useFetch from "../useFetch";
 import ProductsList from "./ProductsList";
 
 const Shop = () => {
+  
+  // fetch the list of products from the server and save them as productsList
   const {
     data: productsList,
     isLoading,
     error,
   } = useFetch("http://localhost:8000/products");
-
-  // fetch the list of products from the server and save them as productsList
-  const { data:productsList, isLoading, error } = useFetch('http://localhost:8000/products');
 
     return (
         <div className="shop">
