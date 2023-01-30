@@ -9,6 +9,20 @@
   /* color: rgb(250, 244, 235, 0.5);
   background-color: #0e0d0d; */
 }
+
+.App {
+  background-size: cover;
+  height: 800px;
+  background-position: center;
+}
+
+.main-logo,
+.content {
+  color: rgb(229, 255, 0);
+  font-size: 400px;
+  background: transparent;
+}
+
 p {
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
   font-size: 0.5em;
@@ -38,4 +52,41 @@ p {
   display: flex;
   justify-content: center;
   font-size: xx-large;
+}
+
+.home {
+  background-size: cover;
+}
+
+.product-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.5em;
+  justify-items: center;
+  margin: 1.5em 0.5em;
+}
+
+.product-preview {
+  position: relative;
+  width: 90%;
+  height: auto;
+  text-align: center;
+  background: transparent;
+}
+
+.product-info {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.product-preview img {
+  display: block;
+  top: 0;
+  left: 0;
+  width: inherit;
+  height: inherit;
+  border: 1px solid lightgray;
+  border-radius: 6px;
 }
