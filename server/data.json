@@ -13,7 +13,7 @@
    {
       "name":"San Jacinto Bluecurls",
       "price":"$49.21",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Donec ut dolor.",
       "id":390904248,
       "size":"XS",
@@ -23,7 +23,7 @@
    {
       "name":"Corkwood",
       "price":"$241.84",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Proin at turpis a pede posuere nonummy. Integer non velit. Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue.",
       "id":574932266,
       "size":"S",
@@ -33,7 +33,7 @@
    {
       "name":"Roughleaf Aster",
       "price":"$121.13",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nullam porttitor lacus at turpis. Donec posuere metus vitae ipsum. Aliquam non mauris.",
       "id":273868236,
       "size":"L",
@@ -43,7 +43,7 @@
    {
       "name":"Eastern Gray Beardtongue",
       "price":"$58.00",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Morbi non quam nec dui luctus rutrum. Nulla tellus.",
       "id":66828916,
       "size":"S",
@@ -53,7 +53,7 @@
    {
       "name":"Aniseia",
       "price":"$199.70",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Sed accumsan felis. Ut at dolor quis odio consequat varius.",
       "id":709423157,
       "size":"M",
@@ -63,7 +63,7 @@
    {
       "name":"Inyo Beardtongue",
       "price":"$138.47",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Maecenas ut massa quis augue luctus tincidunt.",
       "id":197534940,
       "size":"2XL",
@@ -73,7 +73,7 @@
    {
       "name":"Duke Hawthorn",
       "price":"$32.51",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Praesent lectus.",
       "id":491100968,
       "size":"XL",
@@ -83,7 +83,7 @@
    {
       "name":"Trailplant",
       "price":"$63.38",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Morbi vel lectus in quam fringilla rhoncus.",
       "id":854583060,
       "size":"3XL",
@@ -93,7 +93,7 @@
    {
       "name":"Whitewhorl Lupine",
       "price":"$39.91",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Vivamus metus arcu, adipiscing molestie, hendrerit at, vulputate vitae, nisl. Aenean lectus. Pellentesque eget nunc.",
       "id":678750603,
       "size":"XL",
@@ -103,7 +103,7 @@
    {
       "name":"Washington Beardtongue",
       "price":"$277.83",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nunc rhoncus dui vel sem. Sed sagittis.",
       "id":612698849,
       "size":"3XL",
@@ -113,7 +113,7 @@
    {
       "name":"Black Bristlegrass",
       "price":"$267.86",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nullam orci pede, venenatis non, sodales sed, tincidunt eu, felis. Fusce posuere felis sed lacus. Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl.",
       "id":602903201,
       "size":"XL",
@@ -123,7 +123,7 @@
    {
       "name":"Pseudocalliergon Moss",
       "price":"$218.23",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Etiam vel augue. Vestibulum rutrum rutrum neque.",
       "id":380326357,
       "size":"3XL",
@@ -133,7 +133,7 @@
    {
       "name":"Fringetree",
       "price":"$78.89",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
       "id":78355121,
       "size":"S",
@@ -143,7 +143,7 @@
    {
       "name":"Physciella",
       "price":"$131.20",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.",
       "id":577079902,
       "size":"XL",
@@ -153,7 +153,7 @@
    {
       "name":"Cryptantha",
       "price":"$198.65",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Suspendisse accumsan tortor quis turpis. Sed ante. Vivamus tortor.",
       "id":183505091,
       "size":"XL",
@@ -163,7 +163,7 @@
    {
       "name":"Dedecker Lupine",
       "price":"$53.71",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Morbi sem mauris, laoreet ut, rhoncus aliquet, pulvinar sed, nisl. Nunc rhoncus dui vel sem. Sed sagittis.",
       "id":592592722,
       "size":"XS",
@@ -173,7 +173,7 @@
    {
       "name":"Smallflower Fishhook Cactus",
       "price":"$126.42",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Ut at dolor quis odio consequat varius. Integer ac leo.",
       "id":937301740,
       "size":"3XL",
@@ -183,7 +183,7 @@
    {
       "name":"Hawthorn",
       "price":"$233.97",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Suspendisse potenti.",
       "id":16729012,
       "size":"3XL",
@@ -193,7 +193,7 @@
    {
       "name":"Simpleleaf Chastetree",
       "price":"$279.62",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Vivamus vel nulla eget eros elementum pellentesque. Quisque porta volutpat erat.",
       "id":355895822,
       "size":"M",
@@ -203,7 +203,7 @@
    {
       "name":"Oneflower Stitchwort",
       "price":"$100.21",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Mauris lacinia sapien quis libero.",
       "id":85124734,
       "size":"2XL",
@@ -213,7 +213,7 @@
    {
       "name":"Mexican Crinklemat",
       "price":"$251.96",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Donec quis orci eget orci vehicula condimentum.",
       "id":611872686,
       "size":"S",
@@ -223,7 +223,7 @@
    {
       "name":"Waxyfruit Hawthorn",
       "price":"$158.91",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Praesent blandit lacinia erat. Vestibulum sed magna at nunc commodo placerat. Praesent blandit.",
       "id":378270002,
       "size":"S",
@@ -233,7 +233,7 @@
    {
       "name":"Boom's Quillwort",
       "price":"$69.86",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Sed vel enim sit amet nunc viverra dapibus.",
       "id":852804185,
       "size":"L",
@@ -243,7 +243,7 @@
    {
       "name":"Silverleaf Mountain Gum",
       "price":"$68.91",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nulla tellus. In sagittis dui vel nisl. Duis ac nibh.",
       "id":872744373,
       "size":"3XL",
@@ -253,7 +253,7 @@
    {
       "name":"Largeflower Hawksbeard",
       "price":"$160.90",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque. Duis bibendum.",
       "id":53418703,
       "size":"M",
@@ -263,7 +263,7 @@
    {
       "name":"Bull Withe",
       "price":"$102.04",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.",
       "id":43237743,
       "size":"2XL",
@@ -273,7 +273,7 @@
    {
       "name":"Gmelin's Buttercup",
       "price":"$146.72",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nam nulla. Integer pede justo, lacinia eget, tincidunt eget, tempus vel, pede.",
       "id":448635337,
       "size":"2XL",
@@ -283,7 +283,7 @@
    {
       "name":"Trecul's Toothleaf",
       "price":"$55.71",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
       "id":203463908,
       "size":"L",
@@ -293,7 +293,7 @@
    {
       "name":"Smooth Solomon's Seal",
       "price":"$271.04",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Integer a nibh. In quis justo. Maecenas rhoncus aliquam lacus.",
       "id":196505135,
       "size":"3XL",
@@ -303,7 +303,7 @@
    {
       "name":"Clustered Goldenweed",
       "price":"$261.17",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Proin eu mi. Nulla ac enim. In tempor, turpis nec euismod scelerisque, quam turpis adipiscing lorem, vitae mattis nibh ligula nec sem.",
       "id":467954008,
       "size":"S",
@@ -313,7 +313,7 @@
    {
       "name":"Tinker's Penny",
       "price":"$179.45",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Pellentesque viverra pede ac diam.",
       "id":425191792,
       "size":"M",
@@ -323,7 +323,7 @@
    {
       "name":"Sasswood",
       "price":"$110.45",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Morbi porttitor lorem id ligula. Suspendisse ornare consequat lectus. In est risus, auctor sed, tristique in, tempus sit amet, sem.",
       "id":45871562,
       "size":"2XL",
@@ -333,7 +333,7 @@
    {
       "name":"Meadow Bistort",
       "price":"$254.59",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Ut tellus.",
       "id":60565817,
       "size":"3XL",
@@ -343,7 +343,7 @@
    {
       "name":"Bigelow's Tickseed",
       "price":"$235.91",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
       "id":432370051,
       "size":"3XL",
@@ -353,7 +353,7 @@
    {
       "name":"Horsehair Lichen",
       "price":"$199.92",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
       "id":692353802,
       "size":"2XL",
@@ -363,7 +363,7 @@
    {
       "name":"Ohelo Kau La'au",
       "price":"$225.81",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero. Nullam sit amet turpis elementum ligula vehicula consequat.",
       "id":449335937,
       "size":"S",
@@ -373,7 +373,7 @@
    {
       "name":"Pore Lichen",
       "price":"$155.96",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.",
       "id":778355341,
       "size":"XL",
@@ -383,7 +383,7 @@
    {
       "name":"Alaska Saxifrage",
       "price":"$97.87",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Donec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi.",
       "id":666926388,
       "size":"L",
@@ -393,7 +393,7 @@
    {
       "name":"Pore Lichen",
       "price":"$276.78",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nulla tempus. Vivamus in felis eu sapien cursus vestibulum. Proin eu mi.",
       "id":776297946,
       "size":"3XL",
@@ -403,7 +403,7 @@
    {
       "name":"Mallow",
       "price":"$230.43",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Sed ante. Vivamus tortor.",
       "id":264739461,
       "size":"2XL",
@@ -413,7 +413,7 @@
    {
       "name":"Callaeum",
       "price":"$114.59",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Pellentesque at nulla. Suspendisse potenti. Cras in purus eu magna vulputate luctus.",
       "id":798877314,
       "size":"XS",
@@ -423,7 +423,7 @@
    {
       "name":"Whorled Mountainmint",
       "price":"$236.35",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nunc rhoncus dui vel sem. Sed sagittis.",
       "id":312375534,
       "size":"2XL",
@@ -433,7 +433,7 @@
    {
       "name":"Catesby's False Bindweed",
       "price":"$42.05",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Quisque erat eros, viverra eget, congue eget, semper rutrum, nulla. Nunc purus. Phasellus in felis.",
       "id":760973078,
       "size":"2XL",
@@ -443,7 +443,7 @@
    {
       "name":"Ehretia",
       "price":"$259.07",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Nulla suscipit ligula in lacus. Curabitur at ipsum ac tellus semper interdum.",
       "id":70172710,
       "size":"S",
@@ -453,7 +453,7 @@
    {
       "name":"Kiss Me Over The Garden Gate",
       "price":"$151.67",
-      "imgUrl":"http://dummyimage.com/400x450.png/5fa2dd/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"In sagittis dui vel nisl. Duis ac nibh.",
       "id":173831926,
       "size":"L",
@@ -463,7 +463,7 @@
    {
       "name":"Red Elder",
       "price":"$176.60",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Proin leo odio, porttitor id, consequat in, consequat ut, nulla.",
       "id":792493813,
       "size":"L",
@@ -473,7 +473,7 @@
    {
       "name":"Barton Flats Horkelia",
       "price":"$197.04",
-      "imgUrl":"http://dummyimage.com/400x450.png/dddddd/000000",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Curabitur in libero ut massa volutpat convallis. Morbi odio odio, elementum eu, interdum eu, tincidunt in, leo. Maecenas pulvinar lobortis est.",
       "id":682582253,
       "size":"L",
@@ -483,7 +483,7 @@
    {
       "name":"Dudley's Clarkia",
       "price":"$234.66",
-      "imgUrl":"http://dummyimage.com/400x450.png/cc0000/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Maecenas leo odio, condimentum id, luctus nec, molestie sed, justo. Pellentesque viverra pede ac diam. Cras pellentesque volutpat dui.",
       "id":147459156,
       "size":"S",
@@ -493,7 +493,7 @@
    {
       "name":"Dwarf Milkweed",
       "price":"$230.41",
-      "imgUrl":"http://dummyimage.com/400x450.png/ff4444/ffffff",
+      "imgUrl":"/assets/kcrk_hoodie_img.jpg",
       "description":"Donec ut mauris eget massa tempor convallis.",
       "id":90282798,
       "size":"S",
